@@ -1,0 +1,37 @@
+body{
+    background-color: #fff;
+    padding: 80px 50px 80px 50px;   
+    /* top,right,bottom,left */
+}
+
+h1{
+    font-size:66px;
+}
+h2{
+    font-size:56px;
+}
+
+h3{
+    font-size:46px;
+}
+
+h6{
+    font-size:26px;
+}
+p{
+    font-size:22px;
+}
+span{
+    font-size:16px;
+}
+h1,h2,h3,h6,p{
+    color:#000;
+}
+
+button{
+    padding: 12px 24px 12px 24px;
+    border: 1px solid #fff;
+    color:#fff;
+    border-radius: 5px;
+    background-color:#007BFF;
+}
